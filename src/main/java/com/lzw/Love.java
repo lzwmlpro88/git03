@@ -8,5 +8,7 @@ public class Love {
         System.out.println("create dev02 branch");
         System.out.println("create dev03 branch");
         System.out.println("create dev04 branch");
+        System.out.println("主干操作");
+
     }
 }
